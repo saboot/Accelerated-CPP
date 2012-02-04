@@ -1,0 +1,5 @@
+This is my first git project thing.
+
+I'm tracking what I've written for the C++ teaching book "Accelerated C++" by Koenig and Moo. I'm on Chapter 5 right now, and I don't feel like rewriting what I've done for Ch4 so the code for Ch4 will be taken from the website.
+
+I'm writing it using codeblocks for now, I might switch to gvim+gdb later.
